@@ -1,0 +1,10 @@
+ignore$
+(?:^|/)(?i)COPYRIGHT
+(?:^|/)(?i)LICEN[CS]E
+(?:^|/)vendor/
+^Tool Samples/
+^\.github/
+\.docx$
+#\.json$
+\.pdf$
+\.zip$
