@@ -1938,7 +1938,7 @@
     },
 
     "versionControlDetails": {
-      "descriptipn": "Specifies the information necessary to retrieve a desired revision from a version control system.",
+      "description": "Specifies the information necessary to retrieve a desired revision from a version control system.",
       "type": "object",
       "additionalProperties": false,
       "properties": {
